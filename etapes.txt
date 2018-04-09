@@ -1,0 +1,11 @@
+nouveau projet angular 5
+new shared module
+New navbar component in shared module
+New sidebar component in shared module
+<app-root> in index.html
+<nav-bar> , <side-bar> and <router-outlet> in app.component.html
+creating app routing module
+create appRoutes const for the routes
+importing app routing module in app module
+importing shared module in app module
+importing app routing module in shared module
